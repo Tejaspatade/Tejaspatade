@@ -32,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaspatade&show_icons=true&locale=en&layout=compact" alt="tejaspatade" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaspatade&show_icons=true&locale=en" alt="tejaspatade" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaspatade&" alt="tejaspatade" /></p>
