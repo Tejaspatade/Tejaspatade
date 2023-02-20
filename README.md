@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/tejaspatade1" target="blank"><img src="https://img.shields.io/twitter/follow/tejaspatade1?logo=twitter&style=for-the-badge" alt="tejaspatade1" /></a> </p>
 
-- 🔭 I’m currently working on [Mapty]()
+- 🔭 I’m currently working on [Natours-Tour App on MERN Stack]()
 
-- 🌱 I’m currently learning **React & Node.JS(Yes IKR, Both!!)**
+- 🌱 I’m currently learning **Node.JS & ExpressJS(Yes IKR, Both!!)**
 
 - 👯 I’m looking to collaborate on **Frustration Game**
 
