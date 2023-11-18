@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/tejaspatade1" target="blank"><img src="https://img.shields.io/twitter/follow/tejaspatade1?logo=twitter&style=for-the-badge" alt="tejaspatade1" /></a> </p>
 
-- 🔭 I’m currently working on [NovaChatter](https://github.com/sidx2/NovaChatter-backend) with Siddhesh Pardeshi
+- 🔭 I’m currently working on [Bookies](https://github.com/Tejaspatade/bookies) 
 
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Frustration Game**
 
-- 💬 Ask me about **JavaScript, Python, PHP**
+- 💬 Ask me about **JavaScript, Python**
 
 - 📫 How to reach me **tjspatade@gmail.com**
 
